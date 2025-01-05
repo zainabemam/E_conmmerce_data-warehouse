@@ -52,6 +52,7 @@ The project answers the following key business questions using SQL queries:
 7. **Logistic Performance**: Identify routes with heavy traffic and late deliveries.  
 8. **Customer Satisfaction**: Analyze the effect of late deliveries on feedback scores.  
 9. **Delivery Delays**: Calculate delays by state and the difference between estimated and actual delivery times.
+10. **time delivery diffrence**:Difference between estimated and actual delivery times
 
 ## **Project Workflow**
 1. **Data Preparation**:  
